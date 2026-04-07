@@ -3,3 +3,4 @@ numpy==2.2.5
 opencv-python==4.11.0.86
 gradio==5.29.0
 rembg==2.0.65
+onnxruntime
